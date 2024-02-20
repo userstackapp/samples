@@ -9,6 +9,7 @@ type VerifyResponse = {
   email: string;
   plan: string;
   flags: { [key: string]: string };
+  data: any;
 };
 
 type ErrorResponse = {
