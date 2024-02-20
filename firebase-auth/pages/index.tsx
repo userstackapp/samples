@@ -23,10 +23,17 @@ export default function Home() {
       });
   };
 
+  const testBackendCall = async () => {
+    const response = await fetch("/api/test");
+    const data = await response.json();
+    console.log(data);
+  };
+
   return (
     <main>
       <h1>Userstack Firebase Authentication Sample</h1>
       <button onClick={signin}>Sign in with Google</button>
+      <button onClick={testBackendCall}>Test backend call</button>
     </main>
   );
 }
