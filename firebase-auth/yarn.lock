@@ -715,10 +715,10 @@
   resolved "https://registry.yarnpkg.com/@ungap/structured-clone/-/structured-clone-1.2.0.tgz#756641adb587851b5ccb3e095daf27ae581c8406"
   integrity sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==
 
-"@userstack/react@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@userstack/react/-/react-0.0.3.tgz#ab2ede836cf5a65b24f17e4593dc8f61c6466cb7"
-  integrity sha512-iecojTaC1nIsUP+D3z/Lz19W4h8vg+THGLBHp9KikmxiyOO4J922Mntm0q3FTJT/D6IUTfSCYxHWhwN65TIhjg==
+"@userstack/react@^0.0.13":
+  version "0.0.13"
+  resolved "https://registry.yarnpkg.com/@userstack/react/-/react-0.0.13.tgz#49ea278aabe9d01a186c26ac1b7fd05c4a7cca21"
+  integrity sha512-QyhaxO0AboO7VjA/ErnRaSf+LD0O2vi95p+5Kr38MxTTQkk64/Q3zU1wS1HWAmbxy1HBUHLybPAZaSVDuY9qNQ==
   dependencies:
     js-cookie "^3.0.5"
 
